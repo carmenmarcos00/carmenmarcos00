@@ -8,5 +8,6 @@
 ### Languages and Tools:
 - Java
 - C
+- C++
 - Python
 - Assembly
