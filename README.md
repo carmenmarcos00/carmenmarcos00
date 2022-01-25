@@ -11,3 +11,5 @@
 - C++
 - Python
 - Assembly
+- VHDL
+- Ada
